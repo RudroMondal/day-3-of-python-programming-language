@@ -1,0 +1,1 @@
+input("What is your Favorite Color:") #Enter your Favorite Color.
